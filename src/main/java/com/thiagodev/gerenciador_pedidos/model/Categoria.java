@@ -1,5 +1,6 @@
 package com.thiagodev.gerenciador_pedidos.model;
 
+import com.thiagodev.gerenciador_pedidos.repository.CategoriaRepository;
 import jakarta.persistence.*;
 
 @Entity
